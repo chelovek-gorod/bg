@@ -1,0 +1,85 @@
+{
+	"frames": {
+		"left": {
+			"frame": {
+				"x": 0,
+				"y": 0,
+				"w": 36,
+				"h": 66
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 36,
+				"h": 66
+			},
+			"sourceSize": {
+				"w": 36,
+				"h": 66
+			},
+			"anchor": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		"center": {
+			"frame": {
+				"x": 36,
+				"y": 0,
+				"w": 36,
+				"h": 66
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 36,
+				"h": 66
+			},
+			"sourceSize": {
+				"w": 36,
+				"h": 66
+			},
+			"anchor": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		"right": {
+			"frame": {
+				"x": 72,
+				"y": 0,
+				"w": 36,
+				"h": 66
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 36,
+				"h": 66
+			},
+			"sourceSize": {
+				"w": 36,
+				"h": 66
+			},
+			"anchor": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		}
+	},
+	"meta": {
+		"image": "beater_34x66px_3x1_3frames.png",
+		"format": "RGBA8888",
+		"size": {
+			"w": 108,
+			"h": 66
+		},
+		"scale": "1"
+	}
+}
